@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "pokedex_phone_wallpaper_by_drboxhead_dcrrow9-fullview.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "pokedex_phone_wallpaper_by_drboxhead_dcrrow9-fullview@2x.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "pokedex_phone_wallpaper_by_drboxhead_dcrrow9-fullview@3x.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
