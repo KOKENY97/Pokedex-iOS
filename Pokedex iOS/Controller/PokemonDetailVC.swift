@@ -19,8 +19,9 @@ class PokemonDetailVC: UIViewController {
     @IBOutlet weak var heightLbl: UILabel!
     @IBOutlet weak var moveLbl: UILabel!
     
-    
     @IBOutlet weak var descriptionLbl: UITextView!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
